@@ -7,28 +7,28 @@
 
 |Strategy| Work | Model Description | Learning Framework|
 | ----------- | ----------- | ----------- | ----------- |   
-|Extractive | MLRank| Transformer+ Non-autoregressive | Seq2seq|
-|Abstractive| NACC | Transformer+ Non-autoregressive | Seq2seq|	
-|  | NAUS   | Transformer+ Non-autoregressive	| Seq2seq|
-|| TI-C-NHG  |Transformer + Copy Mechanism	| Seq2seq|
-| | IT5  |T5	| Transfer Learning|
-|	  | Heng  | UNILM	| Adversarial Learning |
-|	  | Amin et al.  | GRU + Attention | Seq2seq|
-|	  | Kanungo et al. | MLM + Transformer |	Reinforcement Learning|
-|	  | SLGen  | GCN + GRU + Attention | Seq2seq|	
-|	  | DeepTitle  | BERT |	Transfer Learning|
-|	  | HG-News  | GPT-2 + Pointer Network |	Transfer Learning|
-|	  | Matsushita et al.  | BART	| Transfer Learning|
-|	  | PENS  | Transformer + Pointer Network	| Seq2seq|
-|	  | ZmBART  | mBART	| Transfer Learning|
-|	  | Shavrina et al.  | ruGPT-3	| Fine-tuning|
-|	  | CNHG | BiGRU + Attention |	Reinforcement Learning|
-|	  | Shu et al. | Variational Auto-Encoder+RNN | Seq2seq|
-|	  | Littman et al.  | BERT | Fine-tuning|
-|	  | Scarlatos et al.| GPT-2 | Fine-tuning|
-|	  | Jang et al.  | Transformer | Adversarial Learning|
-|Hybrid | MuD2H  | GCN + BiLSTM | Seq2seq|	
-| | SHEG  | GRU + CNN + BiLSTM | Seq2seq|	
-| | Song et al. | BiLSTM	| Reinforcement Learning|
-| | Liu et al.  | BERT	| Transfer Learning|
+|Extractive | [MLRank](https://aclanthology.org/C18-1148.pdf)| Transformer+ Non-autoregressive | Seq2seq|
+|Abstractive| [NACC](https://proceedings.neurips.cc/paper_files/paper/2022/file/bb0f9af6a4881ccb6e14c11b8b4be710-Paper-Conference.pdf) [[Code]](https://github.com/MANGA-UOFA/NACC)| Transformer+ Non-autoregressive | Seq2seq|	
+|  | [NAUS](https://arxiv.org/pdf/2205.14521) [[Code]](https://github.com/MANGA-UOFA/NAUS)| Transformer+ Non-autoregressive	| Seq2seq|
+|| [TI-C-NHG](https://link.springer.com/article/10.1007/s11063-022-10942-2)  |Transformer + Copy Mechanism	| Seq2seq|
+| | [IT5](https://pure.rug.nl/ws/portalfiles/portal/260396938/2203.03759.pdf) [[Code]](https://github.com/gsarti/it5)  |T5	| Transfer Learning|
+|	  | [Heng](https://ieeexplore.ieee.org/abstract/document/9581133)  | UNILM	| Adversarial Learning |
+|	  | [Amin et al.](https://nahid.org/papers/c11.pdf)  | GRU + Attention | Seq2seq|
+|	  | [Kanungo et al.](https://aclanthology.org/2021.naacl-industry.33.pdf) | MLM + Transformer |	Reinforcement Learning|
+|	  | [SLGen](https://ojs.aaai.org/index.php/AAAI/article/view/6501)  | GCN + GRU + Attention | Seq2seq|	
+|	  | [DeepTitle](https://arxiv.org/pdf/2107.10935)  | BERT |	Transfer Learning|
+|	  | [HG-News](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9507422)  | GPT-2 + Pointer Network |	Transfer Learning|
+|	  | [Matsushita et al.](https://aclanthology.org/2021.ranlp-1.107.pdf)  | BART	| Transfer Learning|
+|	  | [PENS](https://aclanthology.org/2021.acl-long.7.pdf) [[Code]](https://msnews.github.io/pens.html) | Transformer + Pointer Network	| Seq2seq|
+|	  | [ZmBART](https://arxiv.org/pdf/2106.01597)| mBART	| Transfer Learning|
+|	  | [Shavrina et al.](https://www.elibrary.ru/item.asp?id=48123721#page=222)  | ruGPT-3	| Fine-tuning|
+|	  | [CNHG](https://ieeexplore.ieee.org/abstract/document/9142327) | BiGRU + Attention |	Reinforcement Learning|
+|	  | [Shu et al.](https://pike.psu.edu/publications/icdm18.pdf) | Variational Auto-Encoder+RNN | Seq2seq|
+|	  | [Littman et al.](https://aclanthology.org/2020.figlang-1.pdf#page=54)  | BERT | Fine-tuning|
+|	  | [Scarlatos et al.](https://arxiv.org/pdf/2302.07974)| GPT-2 | Fine-tuning|
+|	  | [Jang et al.](https://aclanthology.org/2023.findings-eacl.159.pdf)  | Transformer | Adversarial Learning|
+|Hybrid | [MuD2H](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9729734)  | GCN + BiLSTM | Seq2seq|	
+| | [SHEG](https://d1wqtxts1xzle7.cloudfront.net/94078423/s00521-020-05188-920221111-1-bf3m8-libre.pdf?1668194168=&response-content-disposition=inline%3B+filename%3DSHEG_summarization_and_headline_generati.pdf&Expires=1719991467&Signature=JSD4x8vQa6q~x2v1gqZRiWT9fPAOD5AL64zKyyJOlnkSVoWDjxfZYWQwG2mwjJ00vOkzsC61XCeSik1Qi66Sqdeo9XAWZGxDf8O~yOU5W3ZfSo~HXDZTY42~1LO09Gzwfha4hfrHU602NjS5XX0KaVa3hiYqTUln4C0ilxtEj7IJ26HkZTxlZdjLoUDv8yeWv6H7rOAJkjqsE-XIxPgBZze-gmgVbk5yvkWVzxQA2PBu-QiLlebhc42M23JDeFeWwnBWhdU5pMUfIzsncLnE3D8ISUNaJy-SfW0DRMdWOQX3ybYz~FrdgZYweMcrTmV6pKxGWD3gjAmQ926MaBWgiQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)  | GRU + CNN + BiLSTM | Seq2seq|	
+| | [Song et al.](https://ojs.aaai.org/index.php/AAAI/article/view/6421) | BiLSTM	| Reinforcement Learning|
+| | [Liu et al.](https://aclanthology.org/W19-8904.pdf)  | BERT	| Transfer Learning|
 			
