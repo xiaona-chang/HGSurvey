@@ -31,4 +31,20 @@
 | | [SHEG](https://d1wqtxts1xzle7.cloudfront.net/94078423/s00521-020-05188-920221111-1-bf3m8-libre.pdf?1668194168=&response-content-disposition=inline%3B+filename%3DSHEG_summarization_and_headline_generati.pdf&Expires=1719991467&Signature=JSD4x8vQa6q~x2v1gqZRiWT9fPAOD5AL64zKyyJOlnkSVoWDjxfZYWQwG2mwjJ00vOkzsC61XCeSik1Qi66Sqdeo9XAWZGxDf8O~yOU5W3ZfSo~HXDZTY42~1LO09Gzwfha4hfrHU602NjS5XX0KaVa3hiYqTUln4C0ilxtEj7IJ26HkZTxlZdjLoUDv8yeWv6H7rOAJkjqsE-XIxPgBZze-gmgVbk5yvkWVzxQA2PBu-QiLlebhc42M23JDeFeWwnBWhdU5pMUfIzsncLnE3D8ISUNaJy-SfW0DRMdWOQX3ybYz~FrdgZYweMcrTmV6pKxGWD3gjAmQ926MaBWgiQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)  | GRU + CNN + BiLSTM | Seq2seq|	
 | | [Song et al.](https://ojs.aaai.org/index.php/AAAI/article/view/6421) | BiLSTM	| Reinforcement Learning|
 | | [Liu et al.](https://aclanthology.org/W19-8904.pdf)  | BERT	| Transfer Learning|
-			
+
+
+## Summary of style infusion strategies for headline generation tasks
+|Methods| Work | Description | Style|
+| ----------- | ----------- | ----------- | ----------- |   
+|Pre-processing|  [Littman et al.](https://aclanthology.org/2020.figlang-1.pdf#page=54)  | Construct datasets | Satirical  |   
+||[Lorenzo et al.](https://aclanthology.org/2020.lrec-1.828.pdf)  | Train on style datasets |   |  
+|In-process|[Zhan et al.](https://www.ijcai.org/proceedings/2022/0623.pdf)  | Multi-task learning|
+||  [Song et al.](https://ojs.aaai.org/index.php/AAAI/article/view/6421)  |Popularity classifier |Attractive|
+|| [TitleStylist](https://arxiv.org/pdf/2004.01980) [[Code]]( https://github.com/jind11/TitleStylist) |Multi-task learning |Clickbait|
+||[Li et al.](https://ojs.aaai.org/index.php/AAAI/article/view/17565)  |Style constraints module |Attractive|
+|| [Shu et al.](https://pike.psu.edu/publications/icdm18.pdf)   |Style discriminator |Clickbait|
+||[Xu et al.](https://arxiv.org/pdf/1909.03582)  |Reinforce learning | Clickbait  |   
+|Post-processing|[Alnajjar et al.](https://arxiv.org/pdf/2109.08702) |Word replacement   |  Humor  |   
+||[Stegeren et al.](https://ris.utwente.nl/ws/files/124571222/vanstegeren2019churnalist.pdf) |Word replacement  |  |   
+|| [Alnajjar et al.](https://helda.helsinki.fi/server/api/core/bitstreams/b0ed750c-a5c1-4bfd-a2ef-c2ed4fa04b90/content) |Headline replacement  |Metaphorical   |   
+||[Fu et al.](https://ojs.aaai.org/index.php/AAAI/article/view/11330)  | Style transfer model |   |   
