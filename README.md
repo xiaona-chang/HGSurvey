@@ -25,7 +25,7 @@
 |	  | [CNHG](https://ieeexplore.ieee.org/abstract/document/9142327) | BiGRU + Attention |	Reinforcement Learning|
 |	  | [Shu et al.](https://pike.psu.edu/publications/icdm18.pdf) | Variational Auto-Encoder+RNN | Seq2seq|
 |	  | [Littman et al.](https://aclanthology.org/2020.figlang-1.pdf#page=54)  | BERT | Fine-tuning|
-|	  | [Scarlatos et al.](https://arxiv.org/pdf/2302.07974)| GPT-2 | Fine-tuning|
+|	  | [Scarlatos et al.](https://arxiv.org/pdf/2302.07974)[[Code]](https://github.com/umass-ml4ed/mathGPT)| GPT-2 | Fine-tuning|
 |	  | [Jang et al.](https://aclanthology.org/2023.findings-eacl.159.pdf)  | Transformer | Adversarial Learning|
 |Hybrid | [MuD2H](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9729734)  | GCN + BiLSTM | Seq2seq|	
 | | [SHEG](https://d1wqtxts1xzle7.cloudfront.net/94078423/s00521-020-05188-920221111-1-bf3m8-libre.pdf?1668194168=&response-content-disposition=inline%3B+filename%3DSHEG_summarization_and_headline_generati.pdf&Expires=1719991467&Signature=JSD4x8vQa6q~x2v1gqZRiWT9fPAOD5AL64zKyyJOlnkSVoWDjxfZYWQwG2mwjJ00vOkzsC61XCeSik1Qi66Sqdeo9XAWZGxDf8O~yOU5W3ZfSo~HXDZTY42~1LO09Gzwfha4hfrHU602NjS5XX0KaVa3hiYqTUln4C0ilxtEj7IJ26HkZTxlZdjLoUDv8yeWv6H7rOAJkjqsE-XIxPgBZze-gmgVbk5yvkWVzxQA2PBu-QiLlebhc42M23JDeFeWwnBWhdU5pMUfIzsncLnE3D8ISUNaJy-SfW0DRMdWOQX3ybYz~FrdgZYweMcrTmV6pKxGWD3gjAmQ926MaBWgiQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)  | GRU + CNN + BiLSTM | Seq2seq|	
