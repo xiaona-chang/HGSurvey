@@ -19,8 +19,9 @@
 ||List|[Doh et al.](https://arxiv.org/pdf/2110.07354)||
 ||Questions|[Yuan et al.](https://arxiv.org/pdf/1912.00839)||
 ||Ad|[Kanungo et al.](https://dl.acm.org/doi/pdf/10.1145/3534678.3539069)||
-|Summary Content|Indicative|||
-||Informative|||
+|Summary Content|Indicative|[Wang et al.]()||
+||Informative|[Yamada et al.]()||
+|||[Takase et al.]()||
 ||Eyecatchers|||
 |Controllable generation|Faithfulness|||
 ||Formal|||
