@@ -6,13 +6,19 @@
 ## Taxonomy of the headline generation tasks
 |Taxonomy| |Work |Code| 
 | ----------- |----------- |----------- |----------- |
-|Application|News|||
-||Paper|||
-||Email|||
-||Review|||
-||List|||
-||Questions|||
-||Ad|||
+|Application|News|[HG-News](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9507422)||
+|||[Multi-HG](https://export.arxiv.org/pdf/2004.03875)|[Code](https://github.com/dayihengliu/KeyMultiHeadline)|
+||[Heng et al.](https://ieeexplore.ieee.org/document/9581133)|||
+||Paper|[Putra](https://www.researchgate.net/publication/322119181_Automatic_Title_Generation_in_Scientific_Articles_for_Authorship_Assistance_A_Summarization_Approach)||
+|||[Elmnet](https://link.springer.com/article/10.1007/s11042-021-11641-1)||
+||Email|[Nguyen et al.](https://www.researchgate.net/publication/360930536_AI_Gives_You_a_Good_Beginning)||
+|||[Xue et al.](https://link.springer.com/chapter/10.1007/978-3-030-63820-7_76)||
+|||[Zhang et al.](https://aclanthology.org/P19-1043.pdf)||
+||Review|[Amplayo](https://aclanthology.org/D19-1562.pdf)|[Code](https://github.com/rktamplayo/CHIM)|
+|||[Liu et al.](https://dl.acm.org/doi/10.1007/978-3-030-01716-3_27)||
+||List|[Doh et al.](https://arxiv.org/pdf/2110.07354)||
+||Questions|[Yuan et al.](https://arxiv.org/pdf/1912.00839)||
+||Ad|[Kanungo et al.](https://dl.acm.org/doi/pdf/10.1145/3534678.3539069)||
 |Summary Content|Indicative|||
 ||Informative|||
 ||Eyecatchers|||
