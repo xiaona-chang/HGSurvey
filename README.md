@@ -8,7 +8,7 @@
 | ----------- |----------- |----------- |----------- |
 |Application|News|[HG-News](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9507422)||
 |||[Multi-HG](https://export.arxiv.org/pdf/2004.03875)|[Code](https://github.com/dayihengliu/KeyMultiHeadline)|
-||[Heng et al.](https://ieeexplore.ieee.org/document/9581133)|||
+|||[Heng et al.](https://ieeexplore.ieee.org/document/9581133)||
 ||Paper|[Putra](https://www.researchgate.net/publication/322119181_Automatic_Title_Generation_in_Scientific_Articles_for_Authorship_Assistance_A_Summarization_Approach)||
 |||[Elmnet](https://link.springer.com/article/10.1007/s11042-021-11641-1)||
 ||Email|[Nguyen et al.](https://www.researchgate.net/publication/360930536_AI_Gives_You_a_Good_Beginning)||
