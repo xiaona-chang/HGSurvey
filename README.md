@@ -2,6 +2,29 @@
 >A collection of papers and resources related to Large Language Models.
 >
 >The organization of papers refers to our survey "Neural Headline Generation: A Comprehensive Survey".
+>
+## Taxonomy of the headline generation tasks
+|Taxonomy| |Work |Code| 
+| ----------- |----------- |----------- |----------- |
+|Application|News|||
+||Paper|||
+||Email|||
+||Review|||
+||List|||
+||Questions|||
+||Ad|||
+|Summary Content|Indicative|||
+||Informative|||
+||Eyecatchers|||
+|Controllable generation|Faithfulness|||
+||Formal|||
+||Style|||
+||Bias|||
+|Language|Mono-lingual|||
+||Multi-lingual|||
+||Cross-lingual|||
+||Mixed-lingual|||
+
 
 ## Summary of the models and frameworks used for headline generation tasks
 
