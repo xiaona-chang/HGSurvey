@@ -22,15 +22,17 @@
 |Summary Content|Indicative|[Wang et al.]()||
 ||Informative|[Yamada et al.]()||
 |||[Takase et al.]()||
-||Eyecatchers|||
-|Controllable generation|Faithfulness|||
-||Formal|||
-||Style|||
-||Bias|||
-|Language|Mono-lingual|||
-||Multi-lingual|||
-||Cross-lingual|||
-||Mixed-lingual|||
+||Eyecatchers|[Alnajjar et al.](https://arxiv.org/pdf/2109.08702)||
+|||[Jin et al.](https://arxiv.org/pdf/2004.01980)|[Code](https://github.com/jind11/TitleStylist)|
+|||[Hossain et al.](https://aclanthology.org/N19-1012.pdf)||
+|Controllable generation|Faithfulness|[Matsumaru et al.](https://aclanthology.org/2020.acl-main.123.pdf)||
+||Formal|[Zhang et al.](https://dl.acm.org/doi/10.1145/3269206.3271711)||
+||Style|[Li et al.](https://arxiv.org/pdf/2012.07419)||
+||Bias|[Chen et al.](https://aclanthology.org/W18-6509.pdf)||
+|Language|Mono-lingual|[Ao et al.](https://aclanthology.org/2021.acl-long.7.pdf)|[Code](https://paperswithcode.com/paper/pens-a-dataset-and-generic-framework-for)|
+||Multi-lingual|[Alnajjar et al.](https://helda.helsinki.fi/bitstream/handle/10138/303715/iccc_proceedings_2019_258.pdf?sequence=1)||
+||Cross-lingual|[Dorr et al.](https://dl.acm.org/doi/abs/10.1145/979872.979878)||
+||Mixed-lingual|[Lit et al.](https://ieeexplore.ieee.org/document/9533288/)||
 
 
 ## Summary of the models and frameworks used for headline generation tasks
