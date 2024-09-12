@@ -26,13 +26,28 @@
 |||[Jin et al.](https://arxiv.org/pdf/2004.01980)|[Code](https://github.com/jind11/TitleStylist)|
 |||[Hossain et al.](https://aclanthology.org/N19-1012.pdf)||
 |Controllable generation|Faithfulness|[Matsumaru et al.](https://aclanthology.org/2020.acl-main.123.pdf)||
+|||[Song et al.](https://arxiv.org/pdf/2002.02095)||
+|||[Chu et al.](https://dl.acm.org/doi/10.1145/3366424.3382676)||
 ||Formal|[Zhang et al.](https://dl.acm.org/doi/10.1145/3269206.3271711)||
+|||[Hitomi et al.](https://aclanthology.org/W19-8641.pdf)||
+|||[Liu et al.](https://arxiv.org/pdf/2205.14522)|[Code](https://github.com/MANGA-UOFA/NACC)|
+|||[Kanungo et al.](https://dl.acm.org/doi/pdf/10.1145/3534678.3539069)||
 ||Style|[Li et al.](https://arxiv.org/pdf/2012.07419)||
+|| | [Song et al.](https://ojs.aaai.org/index.php/AAAI/article/view/6421)  ||
+|| |[TitleStylist](https://arxiv.org/pdf/2004.01980) |[Code]( https://github.com/jind11/TitleStylist) |
+|||[Li et al.](https://ojs.aaai.org/index.php/AAAI/article/view/17565)  ||
+|| |[Shu et al.](https://pike.psu.edu/publications/icdm18.pdf)   ||
+|||[Xu et al.](https://arxiv.org/pdf/1909.03582)  | | 
 ||Bias|[Chen et al.](https://aclanthology.org/W18-6509.pdf)||
+|||[Lin et al.](https://ieeexplore.ieee.org/document/9457821)||
 |Language|Mono-lingual|[Ao et al.](https://aclanthology.org/2021.acl-long.7.pdf)|[Code](https://paperswithcode.com/paper/pens-a-dataset-and-generic-framework-for)|
 ||Multi-lingual|[Alnajjar et al.](https://helda.helsinki.fi/bitstream/handle/10138/303715/iccc_proceedings_2019_258.pdf?sequence=1)||
+|||[Liu et al.](https://aclanthology.org/W19-8904.pdf)||
+|||[Martinc et al.](https://aclanthology.org/2022.lrec-1.381.pdf)||
 ||Cross-lingual|[Dorr et al.](https://dl.acm.org/doi/abs/10.1145/979872.979878)||
+|||[Shen et al.](https://nlp.csai.tsinghua.edu.cn/~lzy/publications/taslp2018_zero.pdf)||
 ||Mixed-lingual|[Lit et al.](https://ieeexplore.ieee.org/document/9533288/)||
+|||[Rallabandi et al.](https://www.cs.cmu.edu/~awb/papers/IS17_rallabandi.pdf)||
 
 
 ## Summary of the models and frameworks used for headline generation tasks
