@@ -42,12 +42,18 @@
 |||[Hitomi et al.](https://aclanthology.org/W19-8641.pdf)||
 |||[Liu et al.](https://arxiv.org/pdf/2205.14522)|[Code](https://github.com/MANGA-UOFA/NACC)|
 |||[Kanungo et al.](https://dl.acm.org/doi/pdf/10.1145/3534678.3539069)||
-||Style|[Li et al.](https://arxiv.org/pdf/2012.07419)||
-|| | [Song et al.](https://ojs.aaai.org/index.php/AAAI/article/view/6421)  ||
-|| |[TitleStylist](https://arxiv.org/pdf/2004.01980) |[Code]( https://github.com/jind11/TitleStylist) |
+||Style|  [Littman et al.](https://aclanthology.org/2020.figlang-1.pdf#page=54) |   |   
+|||[Lorenzo et al.](https://aclanthology.org/2020.lrec-1.828.pdf)  |  |  
+|||[Zhan et al.](https://www.ijcai.org/proceedings/2022/0623.pdf)  ||
+|||  [Song et al.](https://ojs.aaai.org/index.php/AAAI/article/view/6421)  ||
+||| [TitleStylist](https://arxiv.org/pdf/2004.01980) |[[Code]]( https://github.com/jind11/TitleStylist) |
 |||[Li et al.](https://ojs.aaai.org/index.php/AAAI/article/view/17565)  ||
-|| |[Shu et al.](https://pike.psu.edu/publications/icdm18.pdf)   ||
-|||[Xu et al.](https://arxiv.org/pdf/1909.03582)  | | 
+||| [Shu et al.](https://pike.psu.edu/publications/icdm18.pdf)   ||
+|||[Xu et al.](https://arxiv.org/pdf/1909.03582)  |  |   
+|||[Alnajjar et al.](https://arxiv.org/pdf/2109.08702) |  |   
+|||[Stegeren et al.](https://ris.utwente.nl/ws/files/124571222/vanstegeren2019churnalist.pdf) ||   
+||| [Alnajjar et al.](https://helda.helsinki.fi/server/api/core/bitstreams/b0ed750c-a5c1-4bfd-a2ef-c2ed4fa04b90/content) | |   
+|||[Fu et al.](https://ojs.aaai.org/index.php/AAAI/article/view/11330)  | | 
 ||Bias|[Chen et al.](https://aclanthology.org/W18-6509.pdf)||
 |||[Lin et al.](https://ieeexplore.ieee.org/document/9457821)||
 |Language|Mono-lingual|[Ao et al.](https://aclanthology.org/2021.acl-long.7.pdf)|[Code](https://paperswithcode.com/paper/pens-a-dataset-and-generic-framework-for)|
