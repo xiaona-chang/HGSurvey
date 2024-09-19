@@ -18,13 +18,23 @@
 |||[Liu et al.](https://dl.acm.org/doi/10.1007/978-3-030-01716-3_27)||
 ||List|[Doh et al.](https://arxiv.org/pdf/2110.07354)||
 ||Questions|[Yuan et al.](https://arxiv.org/pdf/1912.00839)||
+|||[Doh et al.](https://arxiv.org/abs/2110.07354)||
+|||[Lit et al.](https://ieeexplore.ieee.org/document/9533288/)||
 ||Ad|[Kanungo et al.](https://dl.acm.org/doi/pdf/10.1145/3534678.3539069)||
 |Summary Content|Indicative|[Wang et al.]()||
+|	  || [Shu et al.](https://pike.psu.edu/publications/icdm18.pdf) ||
+|	 | | [Littman et al.](https://aclanthology.org/2020.figlang-1.pdf#page=54) | |
+|	 | | [Scarlatos et al.](https://arxiv.org/pdf/2302.07974)|[[Code]](https://github.com/umass-ml4ed/mathGPT)| |
+|	  || [Jang et al.](https://aclanthology.org/2023.findings-eacl.159.pdf) | | | Adversarial Learning|
 ||Informative|[Yamada et al.]()||
 |||[Takase et al.]()||
 ||Eyecatchers|[Alnajjar et al.](https://arxiv.org/pdf/2109.08702)||
 |||[Jin et al.](https://arxiv.org/pdf/2004.01980)|[Code](https://github.com/jind11/TitleStylist)|
 |||[Hossain et al.](https://aclanthology.org/N19-1012.pdf)||
+|||[Alnajjar et al.](https://arxiv.org/pdf/2109.08702) | |   
+|||[Stegeren et al.](https://ris.utwente.nl/ws/files/124571222/vanstegeren2019churnalist.pdf) 
+||| [Alnajjar et al.](https://helda.helsinki.fi/server/api/core/bitstreams/b0ed750c-a5c1-4bfd-a2ef-c2ed4fa04b90/content) |   |   
+|||[Fu et al.](https://ojs.aaai.org/index.php/AAAI/article/view/11330)  | | 
 |Controllable generation|Faithfulness|[Matsumaru et al.](https://aclanthology.org/2020.acl-main.123.pdf)||
 |||[Song et al.](https://arxiv.org/pdf/2002.02095)||
 |||[Chu et al.](https://dl.acm.org/doi/10.1145/3366424.3382676)||
@@ -46,6 +56,7 @@
 |||[Martinc et al.](https://aclanthology.org/2022.lrec-1.381.pdf)||
 ||Cross-lingual|[Dorr et al.](https://dl.acm.org/doi/abs/10.1145/979872.979878)||
 |||[Shen et al.](https://nlp.csai.tsinghua.edu.cn/~lzy/publications/taslp2018_zero.pdf)||
+|||[Maurya et al.](https://aclanthology.org/2021.findings-acl.248.pdf)||
 ||Mixed-lingual|[Lit et al.](https://ieeexplore.ieee.org/document/9533288/)||
 |||[Rallabandi et al.](https://www.cs.cmu.edu/~awb/papers/IS17_rallabandi.pdf)||
 
